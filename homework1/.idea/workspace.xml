@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02f8e47c-f159-4d75-b7ee-b6d3e91aef24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="142" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnDXeQQ5kmO5fVRhIm8JxpPAdo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../code_java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Homework1Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Homework1" />
+      <module name="homework" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <useClassPathOnly />
+      <extension name="coverage" runner="jacoco" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Homework1Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Homework1Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Homework1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f8e47c-f159-4d75-b7ee-b6d3e91aef24" name="Default Changelist" comment="" />
+      <created>1583569505583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583569505583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583572544168">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583572544168" />
+    <state x="471" y="34" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583569656015">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="34" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1583569656015" />
+    <state x="323" y="81" key="FileChooserDialogImpl" timestamp="1583666510245">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="323" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583666510245" />
+    <state width="1237" height="78" key="GridCell.Tab.0.bottom" timestamp="1583574581999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="78" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583574581999" />
+    <state width="1237" height="78" key="GridCell.Tab.0.center" timestamp="1583574581999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="78" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583574581999" />
+    <state width="1237" height="78" key="GridCell.Tab.0.left" timestamp="1583574581998">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="78" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583574581998" />
+    <state width="1237" height="78" key="GridCell.Tab.0.right" timestamp="1583574581999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="78" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583574581999" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1583571576766">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583571576766" />
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583569995170">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1583569995170" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homework$Homework1Test.exec" NAME="Homework1Test Coverage Results" MODIFIED="1583571336968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
